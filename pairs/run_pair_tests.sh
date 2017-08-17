@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # bare
 for links in 10 20 40 80
 do
